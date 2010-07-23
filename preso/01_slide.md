@@ -35,6 +35,9 @@
 ![](img/octocat.png)
 ## github.com ##
 
+!SLIDE center
+![](img/search.png)
+
 !SLIDE 
 # get more stable, tested code than NIH #
 
@@ -105,8 +108,8 @@ unicorn-0.97.0<br/>
 # developers create ties in the community #
 
 * network to ask questions / learn from
-* recruit from
 * cross pollination
+* recruit from
 
 !SLIDE
 # get free work #
@@ -137,6 +140,9 @@ unicorn-0.97.0<br/>
 
 !SLIDE
 # have customers add features #
+
+!SLIDE center
+![](img/servicehooks.png)
 
 !SLIDE 
 # github-services #
@@ -376,6 +382,9 @@ unicorn-0.97.0<br/>
 
 !SLIDE
 # more ideas #
+
+!SLIDE
+# dumb ideas are not worked on #
 
 !SLIDE bullets incremental
 # keep your devs #
