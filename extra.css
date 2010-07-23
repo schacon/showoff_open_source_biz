@@ -1,0 +1,13 @@
+.list {
+  font-size: 30px;
+}
+
+table.listtb tr td {
+  padding: 40px;
+  font-family: monospace;
+}
+
+h2 {
+  color: #33f;
+}
+
