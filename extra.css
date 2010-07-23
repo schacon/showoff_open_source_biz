@@ -11,3 +11,14 @@ h2 {
   color: #33f;
 }
 
+.tinybullet ul li {
+  font-size: 34px;
+}
+
+.supersection {
+  background: #448;
+  padding-top: 200px;
+  color: #fff;
+  height: 100%;
+  font-size: 1.8em;
+}
