@@ -2,6 +2,10 @@
 
 # today #
 
+!SLIDE
+
+# now how, but why #
+
 !SLIDE bullets incremental
 # You Should #
 
@@ -44,6 +48,76 @@
 
 !SLIDE 
 # become part of a community #
+
+!SLIDE bullets incremental
+
+# contribute back #
+
+* fork
+* commit
+* push 
+* (pull request)
+
+!SLIDE commandline incremental
+
+	$ date
+	Fri Aug 13 10:26:39 EDT 2010
+
+	$ git clone git://github.com/test-org/test-proj
+	Cloning into test-proj...
+	$ cd test-proj/
+
+	$ vim README 
+	$ git commit -am 'made it better'
+	[master dbeb245] made it better
+	 1 files changed, 2 insertions(+), 0 deletions(-)
+
+	$ (fork it on github)
+
+	$ git remote add mine git@github.com:schacon/test-proj.git
+	$ git push mine master:feature_name
+	...
+	To git@github.com:schacon/test-proj.git
+	   9457e38..dbeb245  master -> master
+
+	$ date
+	Fri Aug 13 10:27:49 EDT 2010
+
+
+!SLIDE commandline
+
+<pre>
+$ date
+Fri Aug 13 <span class="red">10:26:39</span> EDT 2010
+
+$ git clone git://github.com/test-org/test-proj
+Cloning into test-proj...
+$ cd test-proj/
+
+$ vim README 
+$ git commit -am 'made it better'
+[master dbeb245] made it better
+ 1 files changed, 2 insertions(+), 0 deletions(-)
+
+$ (fork it on github)
+
+$ git remote add mine git@github.com:schacon/test-proj.git
+$ git push mine master:feature_name
+...
+To git@github.com:schacon/test-proj.git
+   9457e38..dbeb245  master -> master
+
+$ date
+Fri Aug 13 <span class="red">10:27:49</span> EDT 2010
+</pre>
+
+!SLIDE
+
+# one minute #
+
+!SLIDE
+
+# this is why dvcs is changing OS landscape #
 
 !SLIDE 
 # GitHub examples #

@@ -1,0 +1,132 @@
+Why you should care about being a citizen in the git / open source world
+
+Running Your Business on Open Source
+====================================
+
+Open source has a number of advantages for businesses.
+
+* using open source libraries
+  - combating NIH syndrome
+  - don't reinvent the wheel
+  - become part of a community
+  - use more stable, tested code than NIH
+  - faster development than NIH
+  - GH examples (ruby gems used)
+    (doesn't mention nginx, rails)
+
+* open sourcing your code
+  - if it doesn't exist, and it's general, OS it
+  - you know it will be public, so you write cleaner
+  - get free work
+  - developers create ties in the community
+    - network to ask questions, learn from, recruit from
+    - cross pollination
+  - GH examples
+    grit
+    bert / ernie
+    resque
+    proxymachine
+    cijoe
+      
+  - have customers add features
+    github-services
+    jekyll
+    markup
+    albino
+    hub
+    progit
+
+  Examples
+
+    ghservices
+    {:commits=>120, :lines=>2554, :authors=>52, :percent=>36.05}
+
+    grit
+    {:commits=>70, :lines=>1564, :authors=>21, :percent=>21.0}
+
+    jekyll
+    {:commits=>273, :lines=>3367, :authors=>59, :percent=>51.76}
+
+    resque
+    {:commits=>127, :lines=>3273, :authors=>46, :percent=>18.26}
+
+
+* using open source to recruit
+  - OS work makes your company known in the community
+  - give talks on OS projects, facetime in conferences
+  - comitters to your projects are good people to recruit
+    - they know your code, they like your projects already
+  - GH/(other?) examples
+
+* using open source to find employees
+  - ryan, kyle, zach, rick
+  - you know they produce
+  - you know what their code looks like
+  - you know they are passionate
+  - github, twitter
+  - has anyone here gotten their job through open source work? (me)
+    - and chris and pj met tom through OS
+
+* open source development teams
+  - open source development process overview
+    - maintainer or small team of committers
+    - offline communication channels - IRC/email list
+    - occasional in-person meetings for big goals (once a year or so)
+    - individuals choose what they want to work on
+      - still get bugs, unsexy things
+      - teams self assemble to solve larger problems
+
+  - development teams can work this way too
+    - everyone chooses what they work on, communicates via chat/email
+    - no roadmaps, they're useless
+      - determine larger goals in chat, keep iterating
+    - no backlog for features
+      - if you keep hearing about it, someone will do it 
+      http://gettingreal.37signals.com/ch05_Forget_Feature_Requests.php
+    - no daily in-person meetings, make small decisions offline or in code
+    - people can work from anywhere, anytime, in any style
+    - everyone is passionate about each project, since work is self-assigned
+    - teams self-form and shuffle as needed
+
+  - advantages
+    - great throughput
+      - way less overhead
+      - everyone is interested in what they're doing - they choose it
+    - results in good products
+    - very agile
+    - employees love it, better retention (recruiting is very expensive)
+      - more flexible
+      - always working on something they want
+      - more skin in the game - not a cog, feel more involved/important/central
+
+  - pre-requisites
+    - own your product - client work probably wouldn't work well
+        (unless you have special relationships with the clients)
+    - no deadlines - again, clients can't tell you when they need something 
+    - passionate developers
+      - have to love what they're working on
+      - have to be self driven, can work with no specific direction
+    - great communication
+      - devs have to talk to each other a lot, in many different ways
+        - chat, email, in-person, drinking
+    - small teams
+      - up to 10 still works fine
+      - larger companies do multiple small teams that this could work for
+        (we'll see soon)
+    - best if the team can use the product
+      - open source teams always use their product, so they know the pain points
+    - however, every company I've worked for has met these requirements,
+      but only GitHub does dev this way.  everywhere else had layers of 
+      management and was more poorly run with poorer quality output
+
+  - disadvantages
+    - less visibility into what everyone is working on
+      - mostly a manager problem, because then managers aren't as useful
+      - github going for 2 years with no management
+    - doesn't work well with people who can't self-motivate 
+       or don't care about the product
+
+- overview
+  - use open source, open source stuff, hire OS developers, 
+    use OS dev practices
+  - it will make your company/business better
