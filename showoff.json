@@ -1,6 +1,7 @@
 { "name": "Using Open Source", 
   "sections": [ 
     {"section":"title"},
+    {"section":"about_me"},
     {"section":"git_in_60"},
     {"section":"use_os"},
     {"section":"os_code"},
