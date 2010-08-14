@@ -28,6 +28,14 @@
 !SLIDE center
 ![](img/searchlang.png)
 
+!SLIDE
+
+# 300,000 original projects #
+
+	>> Repository.count(:conditions => 
+		{ :parent_id => nil, :public => 1 })
+	=> 302209
+
 !SLIDE 
 # get more stable, tested code than NIH #
 

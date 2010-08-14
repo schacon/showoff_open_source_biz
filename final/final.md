@@ -4,6 +4,7 @@
 !SLIDE bullets incremental
 # overview #
 
+* use git
 * use open source
 * open source stuff
 * hire OS developers

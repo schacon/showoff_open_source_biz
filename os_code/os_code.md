@@ -6,6 +6,37 @@
 # if it does not exist, and it is general, OS it #
 
 !SLIDE
+# improve the software commodity ecosystem #
+
+!SLIDE
+
+# software as milk #
+
+!SLIDE
+.notes like electricity or copper
+# commodity #
+
+!SLIDE
+.notes it is basically the same no matter who produces it - no adv making yourself
+# fungible #
+
+!SLIDE center
+![milking cow](img/cowmilk.png)
+
+!SLIDE center
+![milk bottle](img/milk.jpeg)
+
+!SLIDE
+# when everyone is milking their own cow #
+
+!SLIDE
+# nobody wins #
+
+
+!SLIDE supersection
+# advantages #
+
+!SLIDE
 # you know it will be public, so you write cleaner #
 
 !SLIDE bullets incremental
