@@ -6,6 +6,26 @@
 
 # now how, but why #
 
+!SLIDE
+
+# business #
+
+!SLIDE
+
+# quick poll #
+
+!SLIDE
+
+# open source maintainers? #
+
+!SLIDE
+
+# open source contributors? #
+
+!SLIDE
+
+# use / modify open source at work? #
+
 !SLIDE bullets incremental
 # You Should #
 
@@ -78,7 +98,7 @@
 	$ git push mine master:feature_name
 	...
 	To git@github.com:schacon/test-proj.git
-	   9457e38..dbeb245  master -> master
+	   9457e38..dbeb245  master -> feature_name
 
 	$ date
 	Fri Aug 13 10:27:49 EDT 2010
@@ -105,7 +125,7 @@ $ git remote add mine git@github.com:schacon/test-proj.git
 $ git push mine master:feature_name
 ...
 To git@github.com:schacon/test-proj.git
-   9457e38..dbeb245  master -> master
+   9457e38..dbeb245  master -> feature_name
 
 $ date
 Fri Aug 13 <span class="red">10:27:49</span> EDT 2010
