@@ -62,6 +62,20 @@
 !SLIDE
 # teams self-form and shuffle as needed #
 
+!SLIDE 
+
+# Developer Driven Development #
+
+!SLIDE bullets incremental
+
+* autonomy
+* power / responsibility
+* no meetings
+* no feature requests / backlog
+* no roadmap
+* no vacations
+* free beer
+
 
 !SLIDE supersection
 # pre-requisites #
@@ -91,6 +105,10 @@
 .notes up to 10 still works fine
 .notes larger companies do multiple small teams that this could work for
 # small teams #
+
+!SLIDE
+
+# or, gatekeepers #
 
 !SLIDE
 .notes open source teams always use their product, so they know the pain points
@@ -138,7 +156,94 @@
 !SLIDE
 # can your company work this way? #
 
+!SLIDE
+
+# Supporting Evidence #
+
 !SLIDE center
 ![](img/octocat.png)
+
+!SLIDE
+# Business Minimalism #
+
+!SLIDE
+
+# Open Source #
+
+!SLIDE center
+
+![drive](drive.jpg)
+
+!SLIDE bullets incremental
+
+* autonomy
+* mastery
+* purpose
+
+!SLIDE
+
+# perils of extrinsic motivators #
+
+!SLIDE
+
+# why outsourcing is difficult #
+
+!SLIDE
+
+# take money off the table #
+
+!SLIDE
+
+# if you want engagement, self direction is better #
+
+!SLIDE
+
+# purpose motive is more powerful than the profit motive #
+
+!SLIDE
+
+# The Best Motivators #
+
+!SLIDE
+
+# Autonomy #
+
+## People want to have control over what they do ##
+
+!SLIDE
+
+# Mastery #
+
+## People want to get better at what they do ##
+
+!SLIDE
+
+# Purpose #
+
+## People want to be part of something that is bigger than they are ##
+
+!SLIDE bullets
+
+* autonomy
+* mastery
+* purpose
+
+!SLIDE
+
+# Skunkworks #
+
+!SLIDE
+
+# ROWE #
+
+!SLIDE bullets incremental
+
+* Lockheed Martin (Advanced Development Programs)
+* Best Buy (ROWE)
+* Atlassian (FedEx Day)
+* Google (20%)
+* GitHub (100%)
+
+
 
 

@@ -14,12 +14,6 @@
 
 !SLIDE center
 
-## github.com/**schacon** ##
-
-![GitHub Stuff](github-stuff.png)
-
-!SLIDE center
-
 ## http://git-scm.com ##
 
 ![git-scm.com](gitscm.png)
@@ -48,12 +42,6 @@
 
 # &lt;/me&gt; #
 
-
-!SLIDE
-
-# Really Using Open Source #
-
-### by Scott Chacon ###
 
 !SLIDE
 

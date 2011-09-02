@@ -9,16 +9,15 @@
 # improve the software commodity ecosystem #
 
 !SLIDE
-
-# software as milk #
-
-!SLIDE
 .notes like electricity or copper
 # commodity #
 
 !SLIDE
 .notes it is basically the same no matter who produces it - no adv making yourself
 # fungible #
+
+!SLIDE
+# gas, not cars #
 
 !SLIDE center
 ![milking cow](img/cowmilk.png)
@@ -34,6 +33,10 @@
 
 !SLIDE
 # efficiency #
+
+!SLIDE
+
+# software as milk #
 
 
 !SLIDE supersection
@@ -70,6 +73,7 @@
 !SLIDE bullets incremental
 ## parts of GitHub open-outsourced ##
 
+* linguist
 * github-services
 * jekyll
 * markup
@@ -79,8 +83,28 @@
 !SLIDE
 # have customers add features #
 
+!SLIDE 
+# github-services #
+### github.com/github/github-services ###
+
 !SLIDE center
 ![](img/servicehooks.png)
+
+!SLIDE 
+# linguist #
+### github.com/github/linguist ###
+
+!SLIDE center
+![](doth.png)
+
+!SLIDE center
+![](linguistpr.png)
+
+!SLIDE center
+# 56 Pull Requests in 2 months #
+
+!SLIDE
+# contributions #
 
 !SLIDE 
 # github-services #

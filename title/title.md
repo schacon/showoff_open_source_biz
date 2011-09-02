@@ -1,6 +1,6 @@
 !SLIDE
 
-# Really Using Open Source #
+# The Open Source Business #
 
 ### by Scott Chacon ###
 

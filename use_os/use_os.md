@@ -1,17 +1,5 @@
 !SLIDE
 
-# today #
-
-!SLIDE
-
-# now how, but why #
-
-!SLIDE
-
-# business #
-
-!SLIDE
-
 # quick poll #
 
 !SLIDE
@@ -36,7 +24,7 @@
 * learn from the open source model
 
 
-!SLIDE subsection
+!SLIDE subsection center
 # use open source libraries #
 
 !SLIDE 
@@ -54,11 +42,11 @@
 
 !SLIDE
 
-# 300,000 original projects #
+# 800,000 original projects #
 
 	>> Repository.count(:conditions => 
 		{ :parent_id => nil, :public => 1 })
-	=> 302209
+	=> 805411
 
 !SLIDE 
 # get more stable, tested code than NIH #

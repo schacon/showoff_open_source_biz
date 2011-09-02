@@ -26,4 +26,4 @@
 * gitref.org
 * progit.org
 * git-scm.com
-* pub night tonight
+* after party tonight

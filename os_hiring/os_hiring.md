@@ -36,6 +36,12 @@
 # twitter #
 
 !SLIDE 
+# google #
+
+!SLIDE 
+# facebook #
+
+!SLIDE 
 # has anyone here gotten their job through open source work? #
 
 !SLIDE 
